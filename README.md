@@ -1,4 +1,4 @@
-![logo](https://www.pngmart.com/files/3/Software-PNG-Picture.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm RIK MONDAL</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right"alt="coading"widht="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
